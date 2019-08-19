@@ -318,19 +318,13 @@ hr {
     color: black;
 }
 
-hr.lastline1 {
-    border-style: dotted;
-    color: black;
-    size: 10px;
-}
-
 .middlesec {
     display: flex;
     margin-top: 20px;
     margin-bottom: 20px;
 }
 
-.middlesec h3 {
+h3 {
     margin-top: 15px;
 }
 
