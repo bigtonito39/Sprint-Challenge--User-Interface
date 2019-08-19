@@ -1,4 +1,4 @@
-# Sprint Challenge: User Interface and Git - Multi-Page Website
+ Sprint Challenge: User Interface and Git - Multi-Page Website
 
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. This Sprint explored User Interface and Git. During this Sprint, you studied Semantic HTML, CSS Fundamentals, CSS Flexbox Module, and Git. In your challenge this week, you will demonstrate proficiency by creating a multi page website that has some missing HTML elements as well as CSS specificity problems that need to be solved.  You will also create an additional web page that will be linked to from a navigation you will build.
 
@@ -33,14 +33,23 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+– I would say that it means adding meaning to a site instead of just presenting a website, with semantic HTML we are now saying that H1 should be the main header for the website, that a P represents paragraph etc etc. vs the old way where you just had random named elements or divs when creating a website. This obviously have many benefits to next programmer to understand our website better, as well as search engines and this way we would get our websites positioned better in search engines.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+-The block display has white space above and below it and does not allow other HTML`s elements next to it, while with the inline display other html elements within the same section with be aligned in the same line.. Margin + padding cannot be added to display: inline unless you use ``display: inline-block`` on it.
+-Also, the inline is the span default`s element.
+-Block has p or div as its default`s element
+
 
 3. What are the 4 areas of the box model?
+1.Padding 2. Border 3.content 4. margin
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+-Cross axis
+
 
 5. Explain why git is valuable to a team of developers.
+ -Git is valuable for developers since it allows them to contribute with each other in any specific project that they might be currently working on, so that with everyone’s little piece of code once added into the master branch the end result software gets done !  Also, it serves as version control which means if a future addition of code breaks the software that you were working on, you can then always go back to previous version. 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
