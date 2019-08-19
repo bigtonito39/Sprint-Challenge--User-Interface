@@ -308,7 +308,7 @@ footer nav a {
 
 /* about page css*/
 
-.about {
+.containerabout-page .about {
     margin-top: 10px;
     margin-bottom: 20px;
 }
@@ -318,9 +318,10 @@ hr {
     color: black;
 }
 
-.collaboration hr {
-    border-style: double dotted;
+hr.lastline1 {
+    border-style: dotted;
     color: black;
+    size: 10px;
 }
 
 .middlesec {
