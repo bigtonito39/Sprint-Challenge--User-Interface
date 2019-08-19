@@ -33,12 +33,12 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
-– I would say that it means adding meaning to a site instead of just presenting a website, with semantic HTML we are now saying that <H1> should be the main header for the website, that a <P> represents paragraph etc etc. vs the old way where you just had random named elements or divs when creating a website. This obviously have many benefits to next programmer to understand our website better, as well as search engines and this way we would get our websites positioned better in search engines.
+– I would say that it means adding meaning to a site instead of just presenting a website, with semantic HTML we are now saying that H1 should be the main header for the website, that a P represents paragraph etc etc. vs the old way where you just had random named elements or divs when creating a website. This obviously have many benefits to next programmer to understand our website better, as well as search engines and this way we would get our websites positioned better in search engines.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 -The block display has white space above and below it and does not allow other HTML`s elements next to it, while with the inline display other html elements within the same section with be aligned in the same line.. Margin + padding cannot be added to display: inline unless you use ``display: inline-block`` on it.
--Also, the inline is the <span> default`s element.
--Block has <p> or <div> as its default`s element
+-Also, the inline is the span default`s element.
+-Block has p or div as its default`s element
 
 
 3. What are the 4 areas of the box model?
