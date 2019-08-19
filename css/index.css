@@ -295,3 +295,28 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+
+/* about page css*/
+
+.about {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+hr {
+    border-style: dotted;
+    color: black;
+}
+
+.middlesec {
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.lowersec {
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
