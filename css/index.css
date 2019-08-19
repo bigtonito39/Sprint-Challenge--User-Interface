@@ -177,8 +177,17 @@ p {
     font-weight: bold;
 }
 
+.container .navigation a:hover {
+    color: white;
+    background-color: black;
+}
+
 .logo2 {
     margin-top: 40px;
+}
+
+.logo1 {
+    margin-top: 15px;
 }
 
 .top-content {
@@ -309,14 +318,36 @@ hr {
     color: black;
 }
 
+.collaboration hr {
+    border-style: double dotted;
+    color: black;
+}
+
 .middlesec {
     display: flex;
     margin-top: 20px;
     margin-bottom: 20px;
 }
 
+.middlesec h3 {
+    margin-top: 15px;
+}
+
 .lowersec {
     display: flex;
     margin-top: 20px;
     margin-bottom: 20px;
+}
+
+button {
+    border-radius: 8px;
+    padding: 5px 18px;
+    margin-top: 15px;
+    background-color: white;
+    border: 2px solid black;
+}
+
+.bottomsec {
+    margin-top: 30px;
+    margin-bottom: 40px;
 }
