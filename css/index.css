@@ -346,3 +346,23 @@ button {
     margin-top: 30px;
     margin-bottom: 40px;
 }
+
+.hrlowersec {
+    display: flex;
+}
+
+.hrlowersec hr {
+    border-top: dotted 1px;
+    width: 100%;
+    margin-right: 35px;
+}
+
+.hruppersec {
+    display: flex;
+}
+
+.hruppersec hr {
+    border-top: dotted 1px;
+    width: 100%;
+    margin-right: 35px;
+}
